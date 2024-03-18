@@ -1,6 +1,6 @@
 {
   "name": "region-cn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -11,6 +11,8 @@
   "dependencies": {
     "jz-region": "^1.0.3",
     "jz-validate": "^1.0.2",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "lzzs-hints": "^1.0.0",
+    "lzzs-tabs": "^1.0.0"
   }
 }
