@@ -1,0 +1,16 @@
+{
+  "name": "region-chinese",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jz-region": "^1.0.3",
+    "jz-validate": "^1.0.2",
+    "lodash": "^4.17.21"
+  }
+}
